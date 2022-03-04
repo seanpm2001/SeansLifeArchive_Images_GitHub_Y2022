@@ -2,7 +2,6 @@
 # I am going to keep trying on this until I get it right
 # @seanpm2001 is the global code owner for this project
 /// @seanpm2001
-/ @seanpm2001
 /* @seanpm2001
 * @seanpm2001
 # Directories at root
@@ -120,6 +119,6 @@
 # No more individual file types for now
 # File info
 # File type: codeowners file (CODEOWNERS)
-# File version: 1 (2021, Wednesday, December 29th at 5:45 pm)
-# Line count (including blank lines and compiler line): 126
+# File version: 2 (2022, Thursday, March 3rd at 5:26 pm)
+# Line count (including blank lines and compiler line): 125
 # End of script
