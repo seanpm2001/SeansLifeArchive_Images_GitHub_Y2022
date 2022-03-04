@@ -1,0 +1,46 @@
+*.m4a @seanpm2001
+*.sh @seanpm2001
+*.desktop @seanpm2001
+*.zip @seanpm2001
+*.rar @seanpm2001
+*.webm @seanpm2001
+*.webp @seanpm2001
+*.doc @seanpm2001
+*.docx @seanpm2001
+*.odt @seanpm2001
+*.tmp @seanpm2001
+*.csv @seanpm2001
+*.CSV @seanpm2001
+*.rb @seanpm2001
+*.RB @seanpm2001
+*.py @seanpm2001
+*.PY @seanpm2001
+*.htm @seanpm2001
+*.html @seanpm2001
+*.mhtm @seanpm2001
+*.mhtml @seanpm2001
+*.xhtm @seanpm2001
+*.xhtml @seanpm2001
+*.HTM @seanpm2001
+*.HTML @seanpm2001
+*.MHTM @seanpm2001
+*.MHTML @seanpm2001
+*.XHTM @seanpm2001
+*.XHTML @seanpm2001
+*.gemspec @seanpm2001
+*.tex @seanpm2001
+*.TEX @seanpm2001
+*.go @seanpm2001
+*.GO @seanpm2001
+*.js @seanpm2001
+*.JS @seanpm2001
+*.cjs @seanpm2001
+*.CJS @seanpm2001
+*.mjs @seanpm2001
+*.MJS @seanpm2001
+# No more individual file types for now
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 2 (2022, Thursday, March 3rd at 5:26 pm)
+# Line count (including blank lines and compiler line): 125
+# End of script
